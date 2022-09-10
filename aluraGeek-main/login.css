@@ -1,0 +1,184 @@
+.cabecalhoPrincipal .container {
+    display: flex;
+    background: #FFFFFF;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 32px 0px;
+    position: static;
+    width: 1136px;
+    height: 115px;
+    left: 152px;
+    top: 0px;
+}
+
+.ajustesDoCbabecalho {
+    display: flex;
+    margin-left: 100px;
+    align-items: center;
+}
+
+.barra {
+    margin-left: 50px;
+    border: none;
+    margin-top: 10px;
+    background-color: rgb(238, 237, 237);
+}
+
+.icone {
+    background-color: rgb(238, 237, 237);
+    border-radius: 20px/20px;
+    width: 300px;
+    height: 40px;
+    margin-top: 0px;
+    margin-left: 20px;
+}
+
+.btn-1 {
+    margin-left: 500px;
+    margin-bottom: 10px;
+    height: 50px;
+    color: blue;
+    background-color: white;
+    border: solid 1px blue;
+}
+
+.btn-1:hover {
+    background-color: rgb(115, 115, 253)
+}
+
+.primeiro-formulario {
+    background: #E5E5E5;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 64px;
+    position: static;
+    width: 1440px;
+    height: 368px;
+    left: 0px;
+    top: 0px;
+    flex: none;
+    order: 0;
+    align-self: stretch;
+    flex-grow: 0;
+    margin: 0px 0px;
+}
+
+#texto {
+    width: 131px;
+    height: 29px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+}
+
+.seuEmail {
+    position: static;
+    width: 423px;
+    height: 63px;
+    left: calc(50% - 275px/2 - 0.5px);
+    top: 152px
+}
+
+.suaSenha {
+    position: static;
+    width: 423px;
+    height: 63px;
+    left: calc(50% - 275px/2 - 0.5px);
+    top: 152px
+}
+
+.btn-3 {
+    margin-bottom: 10px;
+    height: 41px;
+    color: white;
+    background-color: blue;
+    border: none;
+    width: 210px;
+}
+
+.btn-3:hover {
+    background-color: rgb(164, 164, 204);
+}
+
+footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 64px;
+    position: static;
+    width: 1440px;
+    height: 368px;
+    left: 0px;
+    top: 0px;
+    background: #EAF2FD;
+    flex: none;
+    order: 0;
+    align-self: stretch;
+    flex-grow: 0;
+    margin: 0px 0px;
+}
+
+.rodape {
+    display: flex;
+    justify-content: space-between;
+}
+
+.lista {
+    align-items: center;
+    justify-content: space-around;
+    width: 25%;
+}
+
+#linha {
+    text-decoration: none;
+    font-family: 'Raleway';
+}
+
+.formulario {
+    width: 45%;
+    text-decoration: none;
+}
+
+.caixa {
+    position: static;
+    width: 434px;
+    height: 56px;
+    left: calc(50% - 434px/2);
+    top: 0px;
+}
+
+.caixa2 {
+    position: static;
+    width: 434px;
+    height: 82px;
+    left: calc(50% - 434px/2);
+    top: 0px;
+}
+
+.btn-2 {
+    margin-bottom: 10px;
+    height: 50px;
+    color: white;
+    background-color: blue;
+    border: none;
+}
+
+.btn-2:hover {
+    background-color: rgb(164, 164, 204);
+}
+
+.obs {
+    display: flex;
+    justify-content: center;
+}
+
+.dev {
+    background-color: #FFFFFF;
+    margin-top: 5em;
+}
